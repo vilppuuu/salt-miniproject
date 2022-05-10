@@ -1,0 +1,2 @@
+pkg.installed:
+  - name: chocolatey
