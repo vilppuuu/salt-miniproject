@@ -6,7 +6,7 @@ ohjelmat:
           - steam
           - putty
           - wireshark
-          - firefox_x86
+          - firefox_x64
 
 ts3_choco:
   chocolatey.installed:

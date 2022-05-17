@@ -8,6 +8,13 @@ My Name: Vilppu Lindqvist
 
 Licence: GPL 2.0
 
+Test Environment:
+
+ * Salt-Master (3004.1): OS: Debian 11 Bullseye @ Virtualbox 6.1 (Host OS: Windows 10 Home 21H2), CPU: AMD Ryzen 5 3600
+ * Salt-Minion (3004.1): OS: Windows 10 Home (21H2), CPU: Intel i5-6200U
+
+
+
 Stage: Pre Alpha (just starting out)
 
 
